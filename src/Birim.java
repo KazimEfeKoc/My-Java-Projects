@@ -10,7 +10,7 @@ public class Birim {
     public Birim() {
 
     }
-
+    
     public currency getCurrency() {
         return currency;
     }
